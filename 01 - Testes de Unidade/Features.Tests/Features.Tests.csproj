@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <PackageReference Include="Bogus" Version="34.0.2" />
+    <PackageReference Include="FluentAssertions" Version="6.5.1" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.11.0" />
     <PackageReference Include="MOQ" Version="4.17.2" />
     <PackageReference Include="MOQ.automock" Version="3.3.0" />
@@ -32,6 +33,7 @@
     <Folder Include="03 - Order\" />
     <Folder Include="04 - Dados Humanos\" />
     <Folder Include="05 - Mock\" />
+    <Folder Include="07 - FluentAssertions\" />
   </ItemGroup>
 
 </Project>
